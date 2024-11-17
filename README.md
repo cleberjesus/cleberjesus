@@ -13,7 +13,7 @@
 - 👯 Quero colaborar em projetos que envolvam grandes empresas ou startups promissoras, seja no desenvolvimento de sistemas ou na análise de dados.  
 - 🤔 Estou aprendendo sobre **boas práticas em design de sistemas**, **integração entre front-end e back-end**, **otimização de banco de dados** e **visualização de dados**.  
 - 💬 Pergunte-me sobre **C#**, **Java**, **MySQL**, ou **conceitos de desenvolvimento Back-end** e **dados**.  
-- 📫 Como me encontrar: .  
+- 📫 Como me encontrar:  [LinkedIn]([(https://www.linkedin.com/in/cleber-jesus/])  
 - ⚡ Curiosidade: Sou apaixonado por aprender novas tecnologias e explorar como os dados podem transformar decisões e estratégias.  
 
 🚀 Meu objetivo é trabalhar em projetos inovadores, contribuindo tanto no desenvolvimento técnico quanto na comunicação e gestão organizacional. Gosto de garantir que os times estejam alinhados e os processos sejam bem estruturados, buscando sempre entregar soluções eficientes e colaborativas.  
