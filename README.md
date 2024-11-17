@@ -14,6 +14,7 @@
 - 🤔 Estou aprendendo sobre **boas práticas em design de sistemas**, **integração entre front-end e back-end**, **otimização de banco de dados** e **visualização de dados**.  
 - 💬 Pergunte-me sobre **C#**, **Java**, **MySQL**, ou **conceitos de desenvolvimento Back-end** e **dados**.  
 - 📫 Como me encontrar:  [LinkedIn](https://www.linkedin.com/in/cleber-jesus/)  
-- ⚡ Curiosidade: Sou apaixonado por aprender novas tecnologias e explorar como os dados podem transformar decisões e estratégias.  
+- ⚡ Curiosidade: - ⚡ Curiosidade: Sou comprometido e organizado, sempre buscando planejar bem cada etapa dos projetos em que me envolvo. Acredito que uma boa organização e disciplina são essenciais para alcançar resultados eficazes e manter o foco nos objetivos.  
+
 
 🚀 Meu objetivo é trabalhar em projetos inovadores, contribuindo tanto no desenvolvimento técnico quanto na comunicação e gestão organizacional. Gosto de garantir que os times estejam alinhados e os processos sejam bem estruturados, buscando sempre entregar soluções eficientes e colaborativas.  
