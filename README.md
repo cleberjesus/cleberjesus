@@ -12,7 +12,6 @@
 
 - 👯 Quero colaborar em projetos que envolvam grandes empresas ou startups promissoras, seja no desenvolvimento de sistemas ou na análise de dados.  
 - 🤔 Estou aprendendo sobre **boas práticas em design de sistemas**, **integração entre front-end e back-end**, **otimização de banco de dados** e **visualização de dados**.  
-- 💬 Pergunte-me sobre **C#**, **Java**, **MySQL**, ou **conceitos de desenvolvimento Back-end** e **dados**.  
 - 📫 Como me encontrar:  [LinkedIn](https://www.linkedin.com/in/cleber-jesus/)  
 - ⚡ Curiosidade: - ⚡ Curiosidade: Sou comprometido e organizado, sempre buscando planejar bem cada etapa dos projetos em que me envolvo. Acredito que uma boa organização e disciplina são essenciais para alcançar resultados eficazes e manter o foco nos objetivos.  
 
