@@ -38,5 +38,3 @@
 
 
 
-
-🚀 Meu objetivo é trabalhar em projetos inovadores, contribuindo tanto no desenvolvimento técnico quanto na comunicação e gestão organizacional. Gosto de garantir que os times estejam alinhados e os processos sejam bem estruturados, buscando sempre entregar soluções eficientes e colaborativas.  
