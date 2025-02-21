@@ -5,7 +5,7 @@
 
 
 ## 🚀 Sobre mim
- Sou estudante do último semestre do curso técnico em Desenvolvimento de Sistemas na Etec de Taboão da Serra e estou finalizando o 3º ano do Ensino Médio. Tenho uma paixão pela tecnologia e, além da minha formação, estou me dedicando a estudar Java, com o objetivo de me especializar nessa linguagem .  Meu foco é contribuir com projetos inovadores, colaborar em equipes e crescer profissionalmente na área de desenvolvimento de software. 🚀
+ Sou estudante do último semestre do curso técnico em Desenvolvimento de Sistemas na Etec de Taboão da Serra e estou finalizando o 3º ano do Ensino Médio. Tenho uma paixão pela tecnologia e, além da minha formação, estou me dedicando a estudar Java, com o objetivo de me especializar nessa linguagem, e me tornar um Desenvolvedor Back-End. Meu foco é contribuir com projetos inovadores, colaborar em equipes e crescer profissionalmente na área de desenvolvimento de software. 🚀
 
 
 ## 🛠 Habilidades
