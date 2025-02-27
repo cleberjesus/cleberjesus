@@ -14,7 +14,7 @@
 
 ## Experiência Adicional
 
-[![My Skills](https://skillicons.dev/icons?i=ionic,cs,bootstrap,figma,laravel,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,figma,laravel,php&theme=light)](https://skillicons.dev)
 
 
 ### 🛠 Outras Habilidades  
