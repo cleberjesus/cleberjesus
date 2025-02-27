@@ -10,11 +10,11 @@
 
 ## 🛠 Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,html,css&theme=light)](https://skillicons.dev)
 
 ## Experiência Adicional
 
-[![My Skills](https://skillicons.dev/icons?i=ionic,c#,bootstrap,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ionic,cs,bootstrap,figma,laravel,php&theme=light)](https://skillicons.dev)
 
 
 ### 🛠 Outras Habilidades  
