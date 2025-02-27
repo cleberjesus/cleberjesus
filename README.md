@@ -17,7 +17,6 @@ I am a final-year student in the Technical Course in Systems Development at Etec
 
 ## 📚 Education
 - Technical Course in Systems Development, Etec de Taboão da Serra
-- High School, Etec de Taboão da Serra
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-jesus/)
