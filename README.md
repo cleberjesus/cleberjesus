@@ -1,35 +1,27 @@
+# Hi, I'm Cleber! 👋
 
+## 🚀 About Me
+I am a final-year student in the Technical Course in Systems Development at Etec de Taboão da Serra and also completing my third year of high school. I have a passion for technology and am always looking for new challenges and knowledge.
 
+## 🛠 Skills
+- **IDE:** IntelliJ IDEA
+- **Languages:** Java, MySQL, HTML, CSS
+- **Frameworks:** Bootstrap, Laravel
+- **Tools:** Git, GitHub, Figma
 
-# Olá, eu sou o Cleber! 👋
+[![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,html,css,bootstrap,figma,laravel&theme=light)](https://skillicons.dev)
 
+### Other Skills
+- 📌 Version control with **Git and GitHub**
+- 💡 Problem-solving and **teamwork skills**
 
-## 🚀 Sobre mim
- Sou estudante do último semestre do curso técnico em Desenvolvimento de Sistemas na Etec de Taboão da Serra e estou finalizando o 3º ano do Ensino Médio. Tenho uma paixão pela tecnologia e, além da minha formação, estou me dedicando a estudar Java, com o objetivo de me especializar nessa linguagem, e me tornar um Desenvolvedor Back-End. Meu foco é contribuir com projetos inovadores, colaborar em equipes e crescer profissionalmente na área de desenvolvimento de software. 🚀
-
-
-## 🛠 Habilidades
-
-[![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,html,css&theme=light)](https://skillicons.dev)
-
-## Experiência Adicional
-
-[![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,figma,laravel,php&theme=light)](https://skillicons.dev)
-
-
-### 🛠 Outras Habilidades  
-- 📌 Controle de versão com **Git e GitHub**  
- 
-- 💡 Habilidade para **resolver problemas e trabalhar em equipe**  
-
-
-
+## 📚 Education
+- Technical Course in Systems Development, Etec de Taboão da Serra
+- High School, Etec de Taboão da Serra
 
 ## 🔗 Links
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-jesus/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clsilvaj/)
 
-
-
+## 📧 Contact
+- Email: your_email@example.com
