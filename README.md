@@ -14,13 +14,7 @@
 
 ## Experiência Adicional
 
-[![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)
-
-[![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
-
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-
-
+[![My Skills](https://skillicons.dev/icons?i=ionic,c#,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 
 ### 🛠 Outras Habilidades  
