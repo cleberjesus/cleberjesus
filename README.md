@@ -18,7 +18,11 @@ I am a final-year student in the Technical Course in Systems Development at Etec
 
 ## 📧 Contact  
 📩 If you'd like to collaborate on a project or just get in touch, feel free to reach out!  
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-jesus/)  
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clsilvaj/)  
 
 - Email: cleberjesus.dev@gmail.com
