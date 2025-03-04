@@ -13,9 +13,6 @@ I am a final-year student in the Technical Course in Systems Development at Etec
 - 💡 Problem-solving and **teamwork skills**  
 - 🛠 Experience with **PHP, Laravel, Figma, and Bootstrap** through projects at Etec  
 
-## 📚 Education
-- Technical Course in Systems Development, Etec de Taboão da Serra  
-
 ## 📧 Contact  
 📩 If you'd like to collaborate on a project or just get in touch, feel free to reach out!  
 
