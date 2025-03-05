@@ -13,6 +13,7 @@ I am a final-year student in the Technical Course in Systems Development at Etec
 - 💡 Problem-solving and **teamwork skills**  
 - 🛠 Experience with **PHP, Laravel, Figma, and Bootstrap** through projects at Etec  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberjesus2)](https://github.com/anuraghazra/github-readme-stats)
 ## 📧 Contact  
 📩 If you'd like to collaborate on a project or just get in touch, feel free to reach out!  
 
