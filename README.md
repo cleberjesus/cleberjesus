@@ -1,21 +1,17 @@
-# Hi, I'm Cleber! 👋
+# Olá, Eu sou o Cleber! 👋
 
-## 🚀 About Me
-I am a final-year student in the Technical Course in Systems Development at Etec de Taboão da Serra and also completing my third year of high school. I have a passion for technology and am always looking for new challenges and knowledge. My current goal is to become a backend Java developer.
+## 🚀 Sobre
+Sou estudante do último ano do Curso Técnico em Desenvolvimento de Sistemas na Etec de Taboão da Serra e estou concluindo o terceiro ano do ensino médio. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados. Meu objetivo atual é me tornar um desenvolvedor backend Java.
 
-## 🛠 Skills
-- **Languages:** Java, MySQL, HTML, CSS  
-- **Tools:** Git, GitHub  
+## 🛠 Habilidades
+- **Linguagens:** Java, MySQL, HTML, CSS  
+- **Ferramentas:** Git, GitHub  
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,html,css,git,github&theme=light)](https://skillicons.dev)
 
-### Other Skills
-- 💡 Problem-solving and **teamwork skills**  
-- 🛠 Experience with **PHP, Laravel, Figma, and Bootstrap** through projects at Etec  
 
-
-## 📧 Contact  
-📩 If you'd like to collaborate on a project or just get in touch, feel free to reach out!  
+## 📧 Contato  
+📩  Se quiser colaborar em um projeto ou apenas bater um papo, sinta-se à vontade para entrar em contato!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleber-jesus/)  
