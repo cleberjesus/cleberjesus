@@ -7,6 +7,11 @@ Sou estudante do último ano do Curso Técnico em Desenvolvimento de Sistemas na
 - **Linguagens:** Java, MySQL, HTML, CSS  
 - **Ferramentas:** Git, GitHub  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,java,spring,mysql,postgres,html,css,git,github,postman,debian" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,postgres,html,css,git,github,postman,debian&theme=light)](https://skillicons.dev)
 
 
