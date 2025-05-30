@@ -1,7 +1,9 @@
 # Olá, Eu sou o Cleber! 👋
 
 ## 🚀 Sobre
-Sou estudante do último ano do Curso Técnico em Desenvolvimento de Sistemas na Etec de Taboão da Serra e estou concluindo o terceiro ano do ensino médio. Apaixonado por tecnologia, estou sempre em busca de novos desafios e aprendizados. Meu objetivo atual é me tornar um desenvolvedor backend Java.
+Estudante do último ano do curso técnico em Desenvolvimento de Sistemas na ETEC de Taboão da Serra e também concluindo o 3º ano do ensino médio. Atualmente focado em aprender desenvolvimento backend com Java, estudando tecnologias como Spring Boot, JPA, APIs REST, autenticação com JWT e OAuth2, além de ferramentas como Docker.
+Estou criando projetos próprios para aplicar na prática o que venho estudando e evoluindo aos poucos no meu tempo, sempre buscando melhorar minhas habilidades técnicas e entender como as aplicações funcionam por trás.
+Busco minha primeira oportunidade como estagiário ou desenvolvedor backend júnior Java para ganhar experiência real no mercado, aprender com profissionais da área e contribuir com seriedade e dedicação.
 
 ## 🛠 Habilidades
 - **Linguagens:** Java, MySQL, HTML, CSS  
