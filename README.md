@@ -1,9 +1,9 @@
 # Cleber Jesus  
 Desenvolvedor Backend Java
 
-Sou desenvolvedor backend em formação, com grande interesse por tecnologia, aprendizado constante e criação de soluções eficientes. Tenho preferência por escrever um código limpo e reutilizável, e estou sempre buscando entender como as coisas funcionam por trás.  
+Sou formado em Técnico em Desenvolvimento de Sistemas pela ETEC de Taboão da Serra, com foco em desenvolvimento backend. Tenho interesse constante em aprender, escrever código limpo e criar soluções funcionais.  
 
-Atualmente estou focado em Java e no ecossistema Spring, além de praticar com projetos próprios para evoluir na prática. Gosto de compartilhar conhecimento, colaborar com outras pessoas desenvolvedoras e me desafiar para crescer cada vez mais na área.
+Atualmente estou aprofundando meus conhecimentos em Java e no ecossistema Spring, desenvolvendo projetos próprios e buscando evoluir com prática e consistência. Gosto de entender como as aplicações funcionam por trás, colaborar com outras pessoas desenvolvedoras e estou em busca da minha primeira oportunidade na área.
 
 ## 🧰 Tecnologias e Ferramentas  
 <p align="left">
